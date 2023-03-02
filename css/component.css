@@ -967,27 +967,21 @@ footer .container hr{
         transform: scale(0.5);
     }
 }
-.graphic_001{top: 20%;left: 5%;}
-.graphic_002{bottom: 0%;left: 2%;}
-.graphic_003{top: -120%;right: 5%;}
+.graphic_001{top: 15%;left: -5%;width: 35%;height: 35%;opacity: 0.5;}
+.graphic_002{bottom: -10%;left: 60%;width: 50%;height: 50%;}
+.graphic_003{top: -25%;right: 10%;width: 20%;height: 20%;}
 .graphic_004{top: -30%;right: 20%;}
-.graphic_005{bottom: 20%;left: 5%;}
-.graphic_006{bottom: 50%;left: -5%;}
-.graphic_007{top: -30%;right: -5%;}
+.graphic_005{bottom: 50%;left: 0%;width: 15%;height: 15%;}
+.graphic_006{bottom: 40%;left: 3%;width: 10%;height: 10%;opacity: 0.6;}
+.graphic_007{top: -30%;right: 0%;width: 20%;height: 20%;}
 .graphic_008{top: 10%;right: 10%;}
-.graphic_009{bottom: 50%;left: 5%;}
-.graphic_010{bottom: -10%;right: 20%;}
-.graphic_011{top: 5%;left: -5%;}
+.graphic_009{bottom: 50%;left: 3%;height: 10%;width: 10%;opacity: 0.4;}
+.graphic_010{bottom: -20%;right: 20%;width: 15%;height: 15%;opacity: 0.6}
+.graphic_011{top: 0%;left: -5%;width: 20%;height: 20%;}
 .graphic_012{top: 12%;left: 5%;}
-.graphic_013{top: 35%;right: 10%;}
+.graphic_013{top: 35%;right: 10%;width: 15%;height: 15%;}
 .graphic_014{top: 50%;left: 10%;}
-.graphic_015{top: 57%;left: 5%;}
-.graphic_016{top: 71%;right: 10%;}
-.graphic_017{top: 70%;right: 5%;}
-.graphic_018{top: 84%;left: 5%;}
-.graphic_019{top: 90%;left: 20%;}
-.graphic_020{top: 0%;right: 20%;}
-.graphic_021{top: 30%;left: 10%;}
-.graphic_022{top: 35%;left: 10%;}
-.graphic_023{top: 87%;right: 15%;}
-.graphic_024{top: 70%;right: 10%;}
+.graphic_015{top: 57%;left: 5%;width: 20%;height: 20%;}
+.graphic_016{top: 71%;right: 10%;width: 10%;height: 10%;}
+.graphic_017{top: 70%;right: 10%;width: 13%;height: 13%}
+.graphic_018{top: 84%;left: 5%;width: 7%;height: 7%;}
